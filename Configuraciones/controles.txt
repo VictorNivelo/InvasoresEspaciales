@@ -1,0 +1,4 @@
+Mover Izquierda:1073741904
+Mover Derecha:1073741903
+Disparar:32
+Pausa:27
